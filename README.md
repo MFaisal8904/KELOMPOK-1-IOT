@@ -45,5 +45,17 @@ Kami membuat sebuah sistem pendingin ruangan berdasarkan suhu ruangan. Adapun al
 ![rangkaian jadi](https://github.com/MFaisal8904/KELOMPOK-1-IOT/assets/119216584/c2f84a9b-946f-48ae-9b0b-16d210e6ef7f)
 
 
+## Mekanisme Kerja Alat
+Alat ini akan membawa suhu serta kelembapan pada ruangan, jika ruangan tersebut berada pada suhu lebih dari 32° C maka secara otomatis dinamo pada rangkaian akan berputar, untuk implementasinya dinamo tersebut akan diganti dengan kipas, artinya jika suhu ruangan tersebut berada diatas 32° C maka kipas akan secara otomatis hidup dan jika suhu ruangan berada dibawah 32° C maka kipas akan otomatis berhenti berputar
+
+## Finishing Project
+Jika alat dan bahan telah dirangkai lalu kode nya telah berjalan sesuai dengan fungsinya, langkah selanjutnya adalah menyiapkan cover atau wadah untuk rangkaian tersebut agar terlihat lebih propoer.
+
+berikut tampilan rangkaian setelah dibuatkan cover:
+
+![tampak luar rangkaian](https://github.com/MFaisal8904/KELOMPOK-1-IOT/assets/119216584/920186a1-ac54-4246-b086-9f2fbaabc941)
+
+![rangkaian full cover](https://github.com/MFaisal8904/KELOMPOK-1-IOT/assets/119216584/804261a1-24c6-4a1d-8bbe-acddda8da511)
+
 
 
