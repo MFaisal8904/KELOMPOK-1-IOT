@@ -8,4 +8,18 @@
 - M. Faisal (09021382227164)
 - ⁠chandra irawan (09021382126151)
 
+## Deskripsi Project
+Kami membuat sebuah sistem pendingin ruangan berdasarkan suhu ruangan. Adapun alat-alat yang kami gunakan meliputi:
+
+## Alat dan Bahan
+- Arduino uno R3
+- Sensor moduke DHT 11
+- Bread board
+- LCD 16 x 2 I2C
+- Jumper cable male dan famale
+-  Module relay 5v
+-  Dinamo
+
+  
+
 
