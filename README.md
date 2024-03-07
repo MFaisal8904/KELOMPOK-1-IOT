@@ -23,4 +23,27 @@ Kami membuat sebuah sistem pendingin ruangan berdasarkan suhu ruangan. Adapun al
 ![Alat iot kelompok 1](https://github.com/MFaisal8904/KELOMPOK-1-IOT/assets/119216584/615efeaa-c09b-4719-a6a6-f087b6de968d)
 
 
+## Penyusunan Alat dan Bahan
+1.  Siapkan semua alat dan bahan yang diperlukan dalam membuat alat
+2.  Sambungkan port 5 volt pada arduino ke port plus pada bread board menggunakan kabel jumper male
+3.  Sambungkan port ground pada arduino ke port minus pada bread board menggunakan kabel jumper male
+4.  Sambungkan pin plus pada dht ke port plus pada bread board menggunakan jumper male
+5.  Sambungkan pin minus pada dht ke port minus pada bread board mengunakan jumper male
+6.  Sambungkan pin out pada dht 11 ke port 2 pada arduino menggunakan jumper male
+7.  Sambung pin VCC pada relay ke port plus pada bread board menggunakan jumper male
+8.  Sambungkan pin ground pada relay ke port minus pada bread board menggunakan jumper male
+9.  Sambungkan pin in pada relay ke port 8 pada arduino menggunakan jumper male
+10. Siapkan adaptor daya lalu sambungkan sumbu positif nya ke port COM pada relay menggunakan jumper male
+11. Lalu sambungkan sumbu negatif pada adaptor daya ke dinamo menggunakan jumper male
+12. Sambungkan sumbu positif pada dinamo ke port NO pada relay menggunakan jumper male
+13. Sambungkan pin GND module I2C pada LCD ke port minus pada bread board menggunakan jumper female to male
+14. Sambungkan pin VCC pada I2C ke port plus pada bread board menggunakan jumper female to male
+15. Sambungkan pin SDA pada I2C ke port A4 pada arduino menguunakan jumper female to male
+16. Sambungkan pin SCL pada I2C ke port A5 pada arduino menggunakan jumper female to male
+17. Lalu rangkaian telah selesai dan selanjutnya masukkan kode yang telah dibuat ke arduino
+
+![rangkaian jadi](https://github.com/MFaisal8904/KELOMPOK-1-IOT/assets/119216584/c2f84a9b-946f-48ae-9b0b-16d210e6ef7f)
+
+
+
 
