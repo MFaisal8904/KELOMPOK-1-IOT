@@ -20,6 +20,7 @@ Kami membuat sebuah sistem pendingin ruangan berdasarkan suhu ruangan. Adapun al
 -  Module relay 5v
 -  Dinamo
 
-  
+![Alat iot kelompok 1](https://github.com/MFaisal8904/KELOMPOK-1-IOT/assets/119216584/615efeaa-c09b-4719-a6a6-f087b6de968d)
+
 
 
