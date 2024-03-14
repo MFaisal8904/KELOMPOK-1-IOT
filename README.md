@@ -8,9 +8,9 @@
 - M. Faisal (09021382227164)
 - ⁠chandra irawan (09021382126151)
 
-  ## Library yang Diperlukan
-  - DHT Sensor Library
-  - LiquidCrystal I2C
+## Library yang Diperlukan
+ - DHT Sensor Library
+ - LiquidCrystal I2C
 
 ## Deskripsi Project
 Kami membuat sebuah sistem pendingin ruangan berdasarkan suhu ruangan. Adapun alat-alat yang kami gunakan meliputi:
@@ -60,6 +60,11 @@ berikut tampilan rangkaian setelah dibuatkan cover:
 ![tampak luar rangkaian](https://github.com/MFaisal8904/KELOMPOK-1-IOT/assets/119216584/920186a1-ac54-4246-b086-9f2fbaabc941)
 
 ![rangkaian full cover](https://github.com/MFaisal8904/KELOMPOK-1-IOT/assets/119216584/804261a1-24c6-4a1d-8bbe-acddda8da511)
+
+## Dokumentasi Presentasi Project
+Berikut hasil dokumentasi saat kelompok kami melakukan presentasi 
+![IOT_Presentation](https://github.com/MFaisal8904/KELOMPOK-1-IOT/assets/119216584/9843d555-4237-4632-9eea-3ffccbd1893c)
+
 
 
 
